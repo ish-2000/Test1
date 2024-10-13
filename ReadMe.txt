@@ -1,1 +1,1 @@
-This is student management system test project.
+This is student management system test mern project.

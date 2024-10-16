@@ -1,1 +1,1 @@
-This is student management system test mern project.
+This is student management system test mern project.CRUD part done and stil have to develop.
